@@ -12,4 +12,5 @@
 
 ##
 
-![Snake animation](https://github.com/MariaEdPaixao/MariaEdPaixao/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MariaEdPaixao/MariaEdPaixao/raw/output/dist/github-contribution-grid-snake.svg)
+
