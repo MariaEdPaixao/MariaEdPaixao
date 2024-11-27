@@ -15,10 +15,8 @@
 
 
 ## Conecte-se comigo
-<div>
-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:mariaeduardaalvesdapaixao0807@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/maria-eduarda-alves-da-paixão-6267a1303)
-</div>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:mariaeduardaalvesdapaixao0807@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/maria-eduarda-alves-da-paixão-6267a1303)
 
 ## Sobre mim
 Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **JavaScript**, **Python**, **Java**, **React/Next.js**, **PHP**, **Typescript** e gosto de explorar áreas como **UX/UI Design** e **Machine Learning**. Estou sempre em busca de novos desafios e colaborações!
