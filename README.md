@@ -20,7 +20,7 @@
 
 
 ## Sobre mim
-Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **JavaScript**, **Python**, **Java**, **React/Next.js**, **PHP**, **Typescript** e gosto de explorar áreas como **UX/UI Design** e **Machine Learning**. Estou sempre em busca de novos desafios e colaborações!
+Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **JavaScript**, **Python**, **Java**, **React/Next.js**, **PHP**, **Typescript**, **SQL**, além de Desenvolvimento de **APIs** com **Flask** e **Jersey**. Também trabalho com UML no Astah e estou sempre explorando áreas como UX/UI Design e Machine Learning. Estou constantemente em busca de novos desafios e colaborações!
 
 ### 📚 Formação acadêmica
 - Superior: **Tecnologo em Análise e Desenvolvimento de Sistemas** na FIAP (Conclusão em 2025).
