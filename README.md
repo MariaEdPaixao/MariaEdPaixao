@@ -10,19 +10,24 @@
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MariaEdPaixao&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" 
-    alt="GitHub stats"
-  />
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=MariaEdPaixao&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" 
+      alt="GitHub stats" 
+      height="180"
+    />
+  </span>
 
-  <br><br>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEdPaixao&layout=compact&langs_count=6&hide=html,scss,less&card_width=290&title_color=FF00F6&text_color=8B8B8B&bg_color=000000&border_color=561760&border_radius=3" 
-    alt="Most Used Languages"
-  />
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEdPaixao&layout=compact&langs_count=6&hide=html,scss,less&card_width=290&title_color=FF00F6&text_color=8B8B8B&bg_color=000000&border_color=561760&border_radius=3" 
+      alt="Most Used Languages" 
+      height="180"
+    />
+  </span>
 
 </div>
+
 
 ---
 
@@ -35,7 +40,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **JavaScript**, **Python**, **Java**, **React/Next.js**, **PHP**, **Typescript**, **SQL**, além de desenvolvimento de **APIs** com **Flask** e **Jersey**. Também trabalho com UML no Astah e estou sempre explorando áreas como UX/UI Design e Machine Learning. Estou constantemente em busca de novos desafios e colaborações!
+Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **JavaScript**, **Python**, **Java**, **C#**, **React/Next.js**, **PHP**, **Typescript**, **SQL**, além de desenvolvimento de **APIs** com **Flask**, **Jersey**, **Spring Boot** e **.NET**. Também trabalho com UML no Astah e estou sempre explorando áreas como UX/UI Design e Machine Learning. Estou constantemente em busca de novos desafios e colaborações!
 
 ---
 
