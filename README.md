@@ -11,11 +11,7 @@
 <div align="center">
 
   <span>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=MariaEdPaixao&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" 
-      alt="GitHub stats" 
-      height="180"
-    />
+
   </span>
 
   <span>
