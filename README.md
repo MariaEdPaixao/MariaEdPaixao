@@ -1,14 +1,16 @@
 ## 👋 Olá, eu sou a Maria Eduarda Paixão!
 
-- 🎯 Estudante de Desenvolvimento de Software  
-- 😄 ela/dela  
-- 📍 São Paulo, Brasil  
+💻 Desenvolvedora de Software
+
+🎓 Análise e Desenvolvimento de Sistemas | FIAP
+
+📍 São Paulo, Brasil
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
   <span>
 
@@ -34,15 +36,40 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+* ## 👩‍💻 Sobre mim
 
-Sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **JavaScript**, **Python**, **Java**, **C#**, **React/Next.js**, **PHP**, **Typescript**, **SQL**, além de desenvolvimento de **APIs** com **Flask**, **Jersey**, **Spring Boot** e **.NET**. Também trabalho com UML no Astah e estou sempre explorando áreas como UX/UI Design e Machine Learning. Estou constantemente em busca de novos desafios e colaborações!
+* Java & Spring Boot
+* React & TypeScript
+* APIs REST
+* Cloud & DevOps
+* Arquitetura de software
+  
+Sempre buscando construir soluções escaláveis, aprender novas tecnologias e transformar ideias em produto
+
+---
+## 🛠️ Tech Stack
+
+**Backend**
+
+```Java``` ```Spring Boot``` ```C#``` ```.NET``` ```Python```
+
+**Frontend**
+
+```React``` ```Next.js``` ```JavaScript``` ```TypeScript```
+
+**Banco de Dados**
+
+```Oracle``` ```SQL``` ```H2``` ```PostgreSql``` ```NOSQL```
+
+**Cloud & DevOps**
+
+```Azure``` ```AWS``` ```GitHub Actions``` ```CI/CD```
 
 ---
 
 ## 🎓 Formação acadêmica
 
-- Superior: **Tecnólogo em Análise e Desenvolvimento de Sistemas** na FIAP (Conclusão em 2025)  
+- Superior: **Tecnólogo em Análise e Desenvolvimento de Sistemas** na FIAP (Concluído em 2025)  
 - Ensino médio integrado com técnico: **Técnico em Desenvolvimento de Sistemas** na Etec de Itaquaquecetuba (Concluído em 2023)
 
 ---
